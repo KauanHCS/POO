@@ -1,0 +1,5 @@
+<div>
+    <a href="index.jsp">Início</a> |
+    <a href="juros/simples/juros-simples.jsp">Juros Simples</a> |
+    <a href="juros/compostos/juros-compostos.jsp">Juros Compostos</a>
+</div>
